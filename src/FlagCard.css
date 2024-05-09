@@ -1,0 +1,21 @@
+.flag-card {
+    width: 100px;
+    height: 100px;
+    display: block;
+    justify-items: center;
+    align-items: center;
+    margin:12px;
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 12px;
+    border-color: gray;
+    text-align: center;
+}
+
+.main-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: '2rem';
+}
